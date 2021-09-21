@@ -3,19 +3,19 @@ Hi I am NotMe The owner of the NG Paradice/Not_Gamerz.Hope u all enjoy in our se
 
 @everyone will get role according to their level.
 
-level 10 │ Access to hidden Channels of the server.
+level 10 │intermediate│ -Access to hidden Channels of the server.
          
-level 20 │ Ability to Change NickName.
+level 20 │Next level│   -Ability to Change NickName.
 				 
-level 30 │ Permission to external emotes.
+level 30 │Pro│          -Permission to external emotes.
 				 
-level 40 │ Parmission to share screen in General VC.
+level 40 │Epic│         -Permission to Share Video/share screen in General VC.
 				 
-level 50 │ Permission to Share Video in General VC.
+level 50 │Ultimate│     -Permission to disable push to talk in General VC.
 				 
-level 60 │  Ability to Set AFK using DYNO.
+level 60 │Pro than us│  -Ability to Set AFK using DYNO.
 				 
-level 70 │ Get access to be 1st to get announcement. 
+level 70 │Godly│        -Get access to be 1st to get announcement. 
 				 
-level 80 │ Access to be over Admins in roles.
+level 80 │God of Gods│  -Access to be over Admins in roles.
 				
